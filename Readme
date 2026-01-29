@@ -1,0 +1,23 @@
+📁 foundations-personal-finance-notebook
+│
+├── README.md
+│
+├── 📁 sources
+│   ├── banco-central-educacao-financeira.pdf
+│   ├── tesouro-direto-introducao.pdf
+│   └── links.md
+│
+├── 📁 summaries
+│   ├── resumo-fonte-1.md
+│   ├── resumo-fonte-2.md
+│   └── resumo-consolidado.md
+│
+├── 📁 glossary
+│   └── glossario-financeiro.md
+│
+├── 📁 prompts
+│   └── prompts-notebooklm.md
+│
+└── 📁 evidence
+    ├── screenshot-notebooklm-1.png
+    └── screenshot-notebooklm-2.png
